@@ -2,6 +2,8 @@
 
 I'm MoistCatawumpus, I code things.
 
+Add me on discord! - `@moistcatawumps`
+
 ---
 
 ## Latest Projects
