@@ -7,9 +7,9 @@ Add me on discord! - `@moistcatawumps`
 ---
 
 ## Latest Projects
-Check out my latest project, [Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/), where I've curated a collection of fantastic resources for Docker. Whether you're a beginner or an experienced user, you'll find useful tools to enhance your Docker experience. This is a continuously updating list.
+- [GitHub User Stats](https://moistcatawumpus.github.io/github-user-stats/) - Explore and display GitHub user statistics in a clean and stylish format. Whether you're tracking your own stats or checking out others, this tool provides an easy way to visualize GitHub user data.
 
-Feel free to suggest more things to be added, anything that needs fixing, etc.
+- [Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/) - a project where I've curated a collection of fantastic resources for Docker. Whether you're a beginner or an experienced user, you'll find useful tools to enhance your Docker experience. This is a continuously updating list.
 
 ---
 <p align="center">
