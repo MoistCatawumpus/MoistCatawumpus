@@ -9,6 +9,8 @@ Add me on discord! - `@moistcatawumps`
 ---
 
 ## Latest Projects
+- [I Like Android Privacy](https://moistcatawumpus.github.io/i-like-android-privacy/) - Discover privacy tools for Android devices. Safeguard your privacy now!
+
 - [GitHub User Stats](https://moistcatawumpus.github.io/github-user-stats/) - Explore and display GitHub user statistics in a clean and stylish format.
 
 - [Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/) - A curated collection of resources for Docker users.
