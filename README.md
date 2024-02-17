@@ -6,6 +6,8 @@ I'm MoistCatawumpus, I code things.
 
 Add me on discord! - `@moistcatawumps`
 
+Yeah, most of my sites are modified versions of each other. So WhAt?
+
 ---
 
 ## Latest Projects
